@@ -11,7 +11,9 @@ Research of the Huawei B818-260 used by many operators worldwide
 
  [ Started a scan of directories and endings (bruteforceing names/dirs) - "dirsearch" running ]
  
-
+ - Enumerating hostname (sniffing dns pointers) is available
+   In Wireshark, set it up to do so, them login to modem and
+   push "Check for updates" will reveal the update server.
 
 
 
